@@ -14,7 +14,7 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 
 * ### Work in Progress / Upcoming Features
 * **BORE Kernel Integration:** Testing implementation of the BORE CPU scheduler kernel (Linux 7.2.4-tkg-bore).
-* **Desktop Updater Script:** In development to allow one-click system updates directly from the desktop.
+* **Desktop Updater Script:** In development to allow one-click BORE kernel updates directly from the desktop.
 > *Note: These features are currently untested and actively in progress.*
 
 ### Download Live-ISO
