@@ -11,3 +11,5 @@ An optimized, Debian 13 / KDE Plasma 6 based gaming Linux for AMD Zen 3 & AMD GP
 ---
 > **Disclaimer:** This is a private system backup. 
 > Nvidia GPUs are not supported/untested. No support or guarantee provided.
+
+Based on MX Linux 25
