@@ -22,7 +22,8 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 
 ### Download Live-ISO
 * [Download YaniOS-V1.5.iso on Google Drive](https://drive.google.com/file/d/1p20aIDuIO9uRKB7QxkKVV196U0VuxCLu/view?usp=drive_link)
-
+### ISO Verification
+* **SHA256:** `61ed5d9ed272685d26c85d4159e3dac889e5cd9d7021e6a9893195b033b8f062`
 
 ----------
 ### Disclaimer & Support
