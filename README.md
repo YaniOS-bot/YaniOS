@@ -12,10 +12,11 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 * **Lightweight Apps:** Replaced heavy default apps with lightweight alternatives (Haruna Video Player, qimgv Image Viewer).
 * **Codecs:** Pre-configured with full multimedia and WebP support out of the box.
 
-* ### Work in Progress / Upcoming Features
-* **BORE Kernel Integration:** Testing implementation of the BORE CPU scheduler kernel (Linux 7.2.4-tkg-bore).
-* **Desktop Updater Script:** In development to allow one-click BORE kernel updates directly from the desktop.
-> *Note: These features are currently untested and actively in progress.*
+### Latest Update (v1.5)
+* **Pre-installed BORE Kernel & Updater:** Includes the BORE CPU scheduler kernel (selectable via GRUB boot menu post-installation for safety).
+* **Desktop Updater Script:** Pre-integrated desktop tool for one-click BORE kernel updates.
+* 
+**It's possible that the updater script appears twice on the desktop; this will be fixed in the next update.**
 
 ### Download Live-ISO
 * [Download YaniOS.iso on Google Drive](https://drive.google.com/file/d/1p20aIDuIO9uRKB7QxkKVV196U0VuxCLu/view?usp=drive_link)
