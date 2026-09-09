@@ -49,6 +49,7 @@ I love and live by open-source principles.
 ----------
 ### Credits
 About MX Linux
+
 YaniOS does not hide its origins.
 YaniOS is based on MX Linux 25, which itself is based on Debian.
 MX Linux tools, components, branding, and installation infrastructure may therefore remain visible within the system and installation process.
