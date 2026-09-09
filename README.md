@@ -26,14 +26,14 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 * **SHA256:** `61ed5d9ed272685d26c85d4159e3dac889e5cd9d7021e6a9893195b033b8f062`
 
 ### Futur Update Version 1.6
-* The **BORE kernel** is being removed in the future version for security reasons.
-The script for building the kernel remains, anyone who wants it can compile it themselves.
-The standard boot kernel for the live ISO remains the XanMod Kernel 7.X.X.
+**Bore kernel system removed:** 
+* The entire Bore kernel system, including its associated updater, has been completely removed from the project to streamline the codebase and system maintenance.
 
-### Exercise caution when building the kernel
-* I assume no liability or warranty regarding your hardware,
-as this is still a personal backup rather than a Linux distribution. I am sharing it simply because
-I love and live by open-source principles.
+**Default kernel updated:**
+* Linux 7.2.4-x64v3-xanmod1 now serves as the primary default kernel integrated and active even within the live ISO to ensure maximum performance on AMD architecture.
+
+**Fallback kernel:** 
+* Linux-image-7.1.8-1mx25ahs-siduction is now firmly configured in the bootloader as a robust, modern fallback option.
 
 
 
