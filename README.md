@@ -25,6 +25,18 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 ### ISO Verification
 * **SHA256:** `61ed5d9ed272685d26c85d4159e3dac889e5cd9d7021e6a9893195b033b8f062`
 
+### Futur Update Version 1.6
+* The **BORE kernel** is being removed in the future version for security reasons.
+The script for building the kernel remains, anyone who wants it can compile it themselves.
+The standard boot kernel for the live ISO remains the XanMod Kernel 7.X.X.
+
+### Exercise caution when building the kernel
+* I assume no liability or warranty regarding your hardware,
+as this is still a personal backup rather than a Linux distribution. I am sharing it simply because
+I love and live by open-source principles.
+
+
+
 ----------
 ### Disclaimer & Support
 > **CRITICAL INSTALLATION REQUIREMENT:** 
@@ -34,3 +46,10 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 > Nvidia GPUs are completely unsupported and untested. Use at your own risk.
 
 
+----------
+### Credits
+About MX Linux
+YaniOS does not hide its origins.
+YaniOS is based on MX Linux 25, which itself is based on Debian.
+MX Linux tools, components, branding, and installation infrastructure may therefore remain visible within the system and installation process.
+The YaniOS branding and customization are my own work, the underlying MX Linux and Debian projects deserve their respective credit.
