@@ -29,7 +29,7 @@ An optimized gaming Linux distribution based on MX Linux 25 / KDE Plasma 6, conf
 
 ## 💾 Download Live-ISO
 
-* **Google Drive:** [Download YaniOS-1.6.iso](YOUR_GOOGLE_DRIVE_LINK_HERE)
+* **Google Drive:** [Download YaniOS-1.6.iso](https://drive.google.com/file/d/1p20aIDuIO9uRKB7QxkKVV196U0VuxCLu/view?usp=drive_link)
 
 ---
 
