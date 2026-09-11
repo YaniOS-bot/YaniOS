@@ -14,18 +14,7 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 * **Codecs:** Pre-configured with full multimedia and WebP support out of the box.
 
 
-### Latest Update (v1.5)
-* **Pre-installed BORE Kernel & Updater:** Includes the BORE CPU scheduler kernel (selectable via GRUB boot menu post-installation for safety).
-* **Desktop Updater Script:** Pre-integrated desktop tool for one-click BORE kernel updates.
-* **Known Issue:** The updater script icon may appear twice on the desktop. This cosmetic issue will be resolved in the next update.
-
-
-### Download Live-ISO
-* [Download YaniOS-V1.5.iso on Google Drive](https://drive.google.com/file/d/1p20aIDuIO9uRKB7QxkKVV196U0VuxCLu/view?usp=drive_link)
-### ISO Verification
-* **SHA256:** `61ed5d9ed272685d26c85d4159e3dac889e5cd9d7021e6a9893195b033b8f062`
-
-### Futur Update Version 1.6
+### Latest Update (v1.6)
 **Bore kernel system removed:** 
 * The entire Bore kernel system, including its associated updater, has been completely removed from the project to streamline the codebase and system maintenance.
 
@@ -35,6 +24,12 @@ An optimized, Based on MX Linux 25 / KDE Plasma 6 based gaming Linux for AMD Zen
 **Fallback kernel:** 
 * Linux-image-7.1.8-1mx25ahs-siduction is now firmly configured in the bootloader as a robust, modern fallback option.
 
+
+### Download Live-ISO
+* [Download YaniOS-1.6.iso on Google Drive](https://drive.google.com/file/d/1p20aIDuIO9uRKB7QxkKVV196U0VuxCLu/view?usp=drive_link)
+### ISO Verification
+* **SHA256:** `9c2d47f7a9210d57ae5514dc59440e63653f538b6ee23280989a7767a722f504`
+* **MD5:** `7b4d948f12ac1e20a2e75ef9f7b8dfd3`
 
 
 ----------
